@@ -3,13 +3,13 @@
 #EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="1_Nacional" tvg-name="La 1",La 1
 https://rtvelivestream.akamaized.net/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="1_Nacional" tvg-name="La 2",La 2
-http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
+https://rtvelivestream.akamaized.net/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="1_Nacional" tvg-name="24h",24h
-https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+https://rtvelivestream.akamaized.net/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="TDP.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="1_Nacional" tvg-name="Teledeporte",Teledeporte GEO
-https://rtvelivestream.akamaized.net/tdp_dvr.m3u8
+https://rtvelivestream.akamaized.net/tdp_main_dvr.m3u8
 #EXTINF:-1 tvg-id="TDP2.TV" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="1_Nacional" tvg-name="Teledeporte2",Teledeporte GEO
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
+https://rtvelivestream.akamaized.net/tdp_bkp_dvr.m3u8
 #EXTINF:-1 tvg-id="E3.TV" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="2_Catalunya" tvg-name="Esport 3",Esport 3 GEO CAT
 https://directes-tv-cat.ccma.cat/cat/ngrp:es3_web/playlist_DVR.m3u8
 #EXTINF:-1 tvg-id="RNE.TV" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="1_Nacional" tvg-name="Radio Nacional",Radio Nacional
@@ -19,9 +19,9 @@ https://directes-tv-cat.ccma.cat/cat/ngrp:tv3_web/playlist_DVR.m3u8
 #EXTINF:-1 tvg-id="324.TV" tvg-logo="https://graph.facebook.com/324cat/picture?width=200&height=200" group-title="2_Catalunya" tvg-name="324",324
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8
 #EXTINF:-1 tvg-id="La2_CAT.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="2_Catalunya" tvg-name="La 2 Catalunya",La 2 Catalunya GEO
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@155343/master.m3u8
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@120903/master.m3u8
 #EXTINF:-1 tvg-id="24H_CAT.TV" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="2_Catalunya" tvg-name="24h Catalunya",24h Catalunya
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@156275/master.m3u8
+https://rtvelivestream.akamaized.net/24h_cat_main_dvr.m3u8
 #EXTINF:-1 tvg-id="TV3_CAM.TV" tvg-logo="https://graph.facebook.com/eltempsTV3/picture?width=200&height=200" group-title="2_Catalunya" tvg-name="TV3 Càmeres",TV3 Càmeres
 https://directes-tv-int.ccma.cat/int/ngrp:beauties_web/playlist_DVR.m3u8
 #EXTINF:-1 tvg-id="BTV.TV" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="2_Catalunya" tvg-name="betevé",betevé

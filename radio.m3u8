@@ -1,21 +1,23 @@
 #EXTM3U
 # @LaQuay https://github.com/LaQuay/TDTChannels
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/clasicafmradio/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="Clásica FM Radio",Clásica FM Radio
-https://listen.mixlr.com/5dd4e6b89146e0c91aa873d0626099f2
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/digitalhits/picture?width=200&height=200" group-title="Radio_Musicales" tvg-name="digitalHits FM",digitalHits FM
-http://digitalhits.frilab.com:8000/digitalhits;
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="_RNE" tvg-name="RNE 1",RNE 1
+http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne_1@586398/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="_RNE" tvg-name="RNE 3",RNE 3
+http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne3_1@793568/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="_RNE" tvg-name="RNE 4",RNE 4
+http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne4_1@793569/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="_RNE" tvg-name="RNE 5",RNE 5
+http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne5_1@793570/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="_RNE" tvg-name="RNE Clásica",RNE Clásica
+http://hlsliveamdgl0-lh.akamaihd.net/i/rnerc_1@586399/master.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="_RNE" tvg-name="RNE Exterior",RNE Exterior
+http://hlsliveamdgl0-lh.akamaihd.net/i/rneree_1@793572/master.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1172550299585847302/cqJkGqw7_200x200.png" group-title="Radio_Cataluña" tvg-name="Catalunya Informació",Catalunya Informació
 https://directes-radio-int.ccma.cat/int/mp4:catinform/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/catmusica/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Cat Música",Cat Música
 https://directes-radio-int.ccma.cat/int/mp4:catmusica/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/901098808314081280/lN5lymcl_200x200.jpg" group-title="Radio_Cataluña" tvg-name="iCat",iCat
 https://directes-radio-int.ccma.cat/int/mp4:icatfm/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Radio Nacional Catalunya",Radio Nacional Catalunya
-https://crtve-rne1-cat.cast.addradio.de/crtve/rne1/cat/mp3/high
-#EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/463278104547303424/pjD8VKWi_200x200.jpeg" group-title="Radio_Cataluña" tvg-name="Ràdio 4",Ràdio 4
-https://crtve-rner4-main.cast.addradio.de/crtve/rner4/main/mp3/high
-#EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1148199115018395648/4rG0yGoS_200x200.png" group-title="Radio_Cataluña" tvg-name="Radio 5 Catalunya",Radio 5 Catalunya
-https://crtve-rne5-bcn.cast.addradio.de/crtve/rne5/bcn/mp3/high
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/SERCatalunya/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="SER Catalunya",SER Catalunya
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CAT.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="LOS40 Catalunya",LOS40 Catalunya

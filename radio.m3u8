@@ -18,149 +18,21 @@ https://directes-radio-int.ccma.cat/int/mp4:catinform/playlist.m3u8
 https://directes-radio-int.ccma.cat/int/mp4:catmusica/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/901098808314081280/lN5lymcl_200x200.jpg" group-title="Radio_Cataluña" tvg-name="iCat",iCat
 https://directes-radio-int.ccma.cat/int/mp4:icatfm/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/SERCatalunya/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="SER Catalunya",SER Catalunya
-https://playerservices.streamtheworld.com/api/livestream-redirect/SER_CAT.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/los40/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="LOS40 Catalunya",LOS40 Catalunya
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CAT.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioMARCA/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Radio Marca Barcelona",Radio Marca Barcelona
-https://radiomarcabcnmedia.dns-lcinternet.com:9000/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="SER Barcelona",SER Barcelona
-https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Onda Cero Barcelona",Onda Cero Barcelona
 https://livefastly-webs.ondacero.es/barcelona-pull/audio/master.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="betevé ràdio",betevé ràdio
-http://77.226.219.101:8000/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="betevé ràdio",betevé ràdio
-https://beteve.cat/en-directe/radio/
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/equinoxradio.barcelone/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Equinox Radio",Equinox Radio
-https://streamingv2.shoutcast.com/absolutevintage
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/barcelonacityfm/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Barcelona City FM",Barcelona City FM
-https://s2.radio.co/sd9da54aa0/listen
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/scannerFM/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="ScannerFM",ScannerFM
-https://laradiossl.online:21670/stream.mp3
-#EXTINF:-1 radio="true" tvg-logo="http://files.jazzradiobcn.webnode.es/system_preview_detail_200000029-183d119379/Jazz%20Radio%20300x300%202.jpg" group-title="Radio_Cataluña" tvg-name="Jazz Radio BCN",Jazz Radio BCN
-https://streamingv2.shoutcast.com/JazzRadioBcn
-#EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1022133616304898054/8JX95zQq_200x200.jpg" group-title="Radio_Cataluña" tvg-name="Radio La Mina",Radio La Mina
-https://cervera.eldialdigital.com:21121/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ImaginaRadio103/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Imagina Ràdio",Imagina Ràdio
-http://server8.emitironline.com:8038/radio
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/capitalemporda/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Ràdio Capital",Ràdio Capital
-http://streaming.martiproduccions.com:8000/capitalhd
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radiokanalbarcelona/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Radio Kanal BCN",Radio Kanal BCN
-https://radioserver10.profesionalhosting.com:60970/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/lamarinacat/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="La Marina FM",La Marina FM
-http://endirecte.amcl.cat:8000/lamarinafm
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/coolturafm/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Cooltura FM",Cooltura FM
-http://streamserver1.somosdigital.net:8415/;stream.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioBronka/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Radio Bronka",Radio Bronka
-http://stream.nonfqdn.net:8000/rbronka.ogg
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rsilenci/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Ràdio Silenci",Ràdio Silenci
-http://streaming.enacast.com:8000/radiosilenci56.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rsilenci/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Ràdio Silenci",Ràdio Silenci
-https://enacast.com/radiosilenci/streams/HD
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/metrofm.es/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Metro FM",Metro FM
-http://89.163.231.60:8420/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ona.latorre/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Ona La Torre",Ona La Torre
-https://radio.cdnmedia.tv/radio/8070/onalatorre
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rap107/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="RAP107",RAP107
-http://streaming.enantena.com:8000/rap56.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rap107/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="RAP107",RAP107
-https://enacast.com/rap107/streams/SD
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ActualityFM.es/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Actuality FM",Actuality FM
-https://node-26.zeno.fm/gta5xkfvbrruv
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radiomaricel/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Ràdio Maricel",Ràdio Maricel
-http://94.23.87.98:8065/;&type=mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/Radioonadesants/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Ona Sants FM",Ona Sants FM
-http://onastream.no-ip.info:8000/live
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/proximafm/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="PròximaFM",PròximaFM
-http://91.187.93.115:8000/;stream/1
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/Radio101.0/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Ràdio Sant Pere i Sant Pau",Ràdio Sant Pere i Sant Pau
-http://212.83.151.18:36686/;stream/1?1552499879263.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radio.vilamajor/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Ràdio Vilamajor",Ràdio Vilamajor
-http://80.37.181.205:8000/;audio.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioGraciaBarcelona/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Ràdio Gràcia",Ràdio Gràcia
-http://streaming.enantena.com:8000/radiograciaHD.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioGraciaBarcelona/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Ràdio Gràcia",Ràdio Gràcia
-https://enacast.com/radiogracia/streams/HD
-#EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1317925182712041474/rNXMGU71_200x200.jpg" group-title="Radio_Cataluña" tvg-name="Una Cosa Ràdio",Una Cosa Ràdio
-https://node-23.zeno.fm/v27tywkbwp8uv
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/1397103013646307/picture?width=200&height=200" group-title="Radio_Cataluña" tvg-name="Gran Via Radio",Gran Via Radio
-http://antares.dribbcast.com:4107/live
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioExterior/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="Radio Exterior",Radio Exterior
 https://cache01.hls.nmdn.net/crtve_rneree_main_aac/stream_abr/crtve/rneree/main/aac/stream_128/chunks.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="RNA Andorra",RNA Andorra
 http://videos.rtva.ad:1935/live/rna/playlist.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="AM Andorra",AM Andorra
 https://videos.rtva.ad/live/am/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/cadenaser/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="SER Andorra",SER Andorra
-https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ANDORRA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadiobigFM/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="BiG FM Alemania",BiG FM Alemania
-http://streams.bigfm.de/bigfm-deutschland-128-mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/QmusicNL/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="QMusic Holanda",QMusic Holanda
-https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_64.aac
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioitalia/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="Radio Italia",Radio Italia
 https://radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/master.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rtp/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="RDP Int. Portugal",RDP Int. Portugal
 https://streaming-live.rtp.pt/liveradio/rdpint80a/chunklist_DVR.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioComercial/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="Radio Comercial Portugal",Radio Comercial Portugal
 https://mcrwowza5.mcr.iol.pt/comercial/smil:comercial.smil/playlist.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rfmoficial/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="RFM Portugal",RFM Portugal
-https://22343.live.streamtheworld.com/RFMAAC
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/SputnikNews/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="Sputnik News Rusia",Sputnik News Rusia
-http://icecast-ruvr.cdnvideo.ru/rian.voicespa?hash=.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/BFBSRadio/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="BFBS Gibraltar 1",BFBS Gibraltar 1
-https://edge-audio-02-gos1.sharp-stream.com/ssvcbfbs7.aac
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/BFBSRadio/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="BFBS Gibraltar 2",BFBS Gibraltar 2
-https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs2.aac
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radiomontecarlo/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="Radio Montecarlo",Radio Montecarlo
-https://icy.unitedradio.it/RMC.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/tomorrowland/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="Tomorrowland Radio",Tomorrowland Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radioswissjazz/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="Radio Swiss Jazz",Radio Swiss Jazz
-http://stream.srg-ssr.ch/m/rsj/mp3_128
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/gaydio/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="Gaydio UK",Gaydio UK
-https://listen-gaydio.sharp-stream.com/gaydiouk.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rfienespanol/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="Radio Francia Internacional",Radio Francia Internacional
-https://rfienespagnol64k.ice.infomaniak.ch/rfienespagnol-64.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/jazzradio.fr/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="Jazz Radio Blues Francia",Jazz Radio Blues Francia
-https://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rinsefm/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="Rinse FM UK",Rinse FM UK
-https://streamer-uk.rinse.fm:8443/stream
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/FmRockandPop/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="FM Rock & Pop Argentina",FM Rock & Pop Argentina
-https://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/rppnoticias/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="RPP Noticias Perú",RPP Noticias Perú
-https://22223.live.streamtheworld.com/RADIO_RPP.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/Radiolazona/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="Radio La Zona Perú",Radio La Zona Perú
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_LAZONA.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioOxigenoFM/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="Radio Oxígeno Perú",Radio Oxígeno Perú
-https://20813.live.streamtheworld.com/RADIO_OXIGENO.mp3
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/ZRocknPop/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="Radio Z Rock & Pop Perú",Radio Z Rock & Pop Perú
-http://167.114.118.120:7440/;mp3
 #EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionaldelperu/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="Radio Nacional Perú",Radio Nacional Perú
 https://cdnh4.iblups.com/hls/OisZOgZAOB.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/RadioLipovaPopular/picture?width=200&height=200" group-title="Radio_Internacional" tvg-name="Radio Lipova Rumania",Radio Lipova Rumania
-https://securestreams5.autopo.st:1888/;mp3
-#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/classic300x300.jpg" group-title="Radio_Internacional" tvg-name="CBN Classic Christian",CBN Classic Christian
-https://streams.cbnradio.com/Classic-Christian-128K
-#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/praise300x300.jpg" group-title="Radio_Internacional" tvg-name="CBN Praise",CBN Praise
-https://streams.cbnradio.com/praise-128K
-#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/selah300x300.jpg" group-title="Radio_Internacional" tvg-name="CBN Selah",CBN Selah
-https://streams.cbnradio.com/instrumental-128K
-#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/cross-country300x300.jpg" group-title="Radio_Internacional" tvg-name="CBN Cross Country",CBN Cross Country
-https://streams.cbnradio.com/country-128K
-#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/contemporary300x300.jpg" group-title="Radio_Internacional" tvg-name="CBN Contemporary",CBN Contemporary
-https://streams.cbnradio.com/contemporary-128K
-#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/gospel300x300.jpg" group-title="Radio_Internacional" tvg-name="CBN Gospel",CBN Gospel
-https://streams.cbnradio.com/gospel-128K
-#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/southern-gospel300x300.jpg" group-title="Radio_Internacional" tvg-name="CBN Southern Gospel",CBN Southern Gospel
-https://streams.cbnradio.com/southern-gospel-128K
-#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/superbook300x300.jpg" group-title="Radio_Internacional" tvg-name="CBN Superbook",CBN Superbook
-https://streams.cbnradio.com/superbook-128K
-#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/fiestahoy300x300.jpg" group-title="Radio_Internacional" tvg-name="CBN Fiesta Hoy",CBN Fiesta Hoy
-https://streams.cbnradio.com/fiesta-hoy-128K
-#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/news300x300.jpg" group-title="Radio_Internacional" tvg-name="CBN News",CBN News
-https://streams.cbnradio.com/news-128K
-#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/christmas300x300.jpg" group-title="Radio_Internacional" tvg-name="CBN Christmas",CBN Christmas
-https://streams.cbnradio.com/christmas-128K
-#EXTINF:-1 radio="true" tvg-logo="https://www1.cbn.com/sites/all/libraries/radio/img/cross-countrychristmas300x300.jpg" group-title="Radio_Internacional" tvg-name="CBN Cross Country Christmas",CBN Cross Country Christmas
-https://streams.cbnradio.com/country-christmas-128K

@@ -1,16 +1,16 @@
 #EXTM3U
 # @LaQuay https://github.com/LaQuay/TDTChannels
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="_RNE" tvg-name="RNE 1",RNE 1
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="A_RNE" tvg-name="RNE 1",RNE 1
 http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne_1@586398/master.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="_RNE" tvg-name="RNE 3",RNE 3
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="A_RNE" tvg-name="RNE 3",RNE 3
 http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne3_1@793568/master.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="_RNE" tvg-name="RNE 4",RNE 4
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="A_RNE" tvg-name="RNE 4",RNE 4
 http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne4_1@793569/master.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="_RNE" tvg-name="RNE 5",RNE 5
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="A_RNE" tvg-name="RNE 5",RNE 5
 http://hlsliveamdgl0-lh.akamaihd.net/i/rnerne5_1@793570/master.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="_RNE" tvg-name="RNE Clásica",RNE Clásica
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="A_RNE" tvg-name="RNE Clásica",RNE Clásica
 http://hlsliveamdgl0-lh.akamaihd.net/i/rnerc_1@586399/master.m3u8
-#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="_RNE" tvg-name="RNE Exterior",RNE Exterior
+#EXTINF:-1 radio="true" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="A_RNE" tvg-name="RNE Exterior",RNE Exterior
 http://hlsliveamdgl0-lh.akamaihd.net/i/rneree_1@793572/master.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://pbs.twimg.com/profile_images/1172550299585847302/cqJkGqw7_200x200.png" group-title="Radio_Cataluña" tvg-name="Catalunya Informació",Catalunya Informació
 https://directes-radio-int.ccma.cat/int/mp4:catinform/playlist.m3u8
